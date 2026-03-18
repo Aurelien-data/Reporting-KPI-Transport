@@ -110,7 +110,7 @@ Ce rapport s'inscrit dans une logique d'amélioration continue :
 ```
 ├── README.md
 ├── MAQUETTE_REPORTING_KPI_TRANSPORT.pbix   # Fichier Power BI
-├── logistique_sterne_bi_dataset.csv        # Dataset simulé
+├── logistique_bi_dataset.csv        # Dataset simulé
 └── documentation/
     └── documentation_technique.md          # Architecture, M, DAX, palette
 ```
