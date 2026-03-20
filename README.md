@@ -109,10 +109,11 @@ Ce rapport s'inscrit dans une logique d'amélioration continue :
 ## Contenu du repo
 ```
 ├── README.md
-├── MAQUETTE_REPORTING_KPI_TRANSPORT.pbix   # Fichier Power BI
-├── logistique_bi_dataset.csv               # Dataset simulé
+├── MAQUETTE_POWER BI_REPORTING_INDICATEUR_TRANSOPRT.pdf                    # Fichier PDF
+├── logistique_bi_dataset.csv                                               # Dataset simulé
 └── documentation/
-    └── documentation_technique.md          # Architecture, M, DAX, palette
+    └── Documentation_Technique__Rapport_Power_BI.pdf                       # Architecture, M, DAX, palette
+    └── Doc_Client__Reporting_Power_BI__Pilotage_Qualit_de_Service.pdf      # Document pour client
 ```
 
 ---
