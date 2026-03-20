@@ -121,6 +121,6 @@ Ce rapport s'inscrit dans une logique d'amélioration continue :
 ## Auteur
 
 **Aurélien · APBI**
-Consultant BI & Data indépendant — Power BI · DAX · Power Query · SQL · Microsoft Fabric
+Consultant BI & Data indépendant — Power BI · DAX · Power Query · SQL
 
 *Mars 2026*
